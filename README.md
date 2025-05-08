@@ -5,21 +5,25 @@
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
 
 1. Create a virtual environment:
+
    ```powershell
    py -m venv .venv
    ```
 
 2. Activate the virtual environment:
+
    ```powershell
    .\.venv\Scripts\activate
    ```
 
 3. Upgrade pip, setuptools, and wheel:
+
    ```powershell
    py -m pip install --upgrade pip setuptools wheel
    ```
 
 4. Install required packages:
+
    ```powershell
    py -m pip install --upgrade -r requirements.txt
    ```
@@ -29,6 +33,7 @@ For **Windows PowerShell** (adjust commands if using Mac/Linux):
 Remember to activate your `.venv` (and install packages if they haven't been installed yet) before running files. Verify that all external packages imported into a file are included in `requirements.txt` (and have NOT been commented out).
 
 Run Python scripts using the following commands:
+
    ```powershell
    py demo_script.py
    py do_stats.py
@@ -39,6 +44,7 @@ Run Python scripts using the following commands:
 ## CheatSheet: Git Add-Commit-Push
 
 Use the following commands to add, commit, and push changes to Git:
+
    ```powershell
    git add .
    git commit -m "custom message"
