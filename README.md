@@ -1,25 +1,47 @@
 # datafun-01-utils
 
-CheatSheet: Commands to Manage Virtual Environment
+## CheatSheet: Managing Virtual Environment
 
-For Windows PowerShell (change if using Mac/Linux). Keep these notes in every project README.md.
+For **Windows PowerShell** (adjust commands if using Mac/Linux):
 
-py -m venv .venv
-.\.venv\Scripts\activate
-py -m pip install --upgrade pip setuptools wheel
-py -m pip install --upgrade -r requirements.txt
+1. Create a virtual environment:
+   ```powershell
+   py -m venv .venv
+   ```
 
-CheatSheet: Commands to Run Python Scripts
+2. Activate the virtual environment:
+   ```powershell
+   .\.venv\Scripts\activate
+   ```
 
-Remember to activate your .venv (and install packages if they haven't been installed yet) before running files. Verify that all external packages imported into a file are included in requirements.txt (and have NOT been commented out).
+3. Upgrade pip, setuptools, and wheel:
+   ```powershell
+   py -m pip install --upgrade pip setuptools wheel
+   ```
 
-py demo_script.py
-py do_stats.py
-py draw_chart.py
-py greet_user.py
+4. Install required packages:
+   ```powershell
+   py -m pip install --upgrade -r requirements.txt
+   ```
 
-CheatSheet: Commands to Git add-commit-push
+## CheatSheet: Running Python Scripts
 
-git add .
-git commit -m "custom message"
-git push -u origin main
+Remember to activate your `.venv` (and install packages if they haven't been installed yet) before running files. Verify that all external packages imported into a file are included in `requirements.txt` (and have NOT been commented out).
+
+Run Python scripts using the following commands:
+   ```powershell
+   py demo_script.py
+   py do_stats.py
+   py draw_chart.py
+   py greet_user.py
+   ```
+
+## CheatSheet: Git Add-Commit-Push
+
+Use the following commands to add, commit, and push changes to Git:
+   ```powershell
+   git add .
+   git commit -m "custom message"
+   git push -u origin main
+   git push
+   ```
