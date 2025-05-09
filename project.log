@@ -1,0 +1,94 @@
+2025-05-08 17:04:53.710 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-08 17:04:53.711 | INFO     | __main__:main:136 - START main() in utils_case.py
+2025-05-08 17:04:53.712 | INFO     | __main__:main:139 - Byline:
+
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-05-08 17:05:28.716 | INFO     | __main__:main:145 - END main() in utils_case.py
+2025-05-09 13:45:07.430 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-09 13:45:07.430 | INFO     | __main__:main:136 - START main() in utils_case.py
+2025-05-09 13:45:07.431 | INFO     | __main__:main:139 - Byline:
+
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-05-09 13:45:42.178 | INFO     | __main__:main:145 - END main() in utils_case.py
+2025-05-09 13:48:21.443 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-09 13:48:21.443 | INFO     | __main__:main:136 - START main() in utils_branton_advanced.py
+2025-05-09 13:48:21.444 | INFO     | __main__:main:139 - Byline:
+
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-05-09 13:48:55.966 | INFO     | __main__:main:145 - END main() in utils_branton_advanced.py
+2025-05-09 13:50:18.419 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-09 13:50:18.419 | INFO     | __main__:main:136 - START main() in utils_branton_advanced.py
+2025-05-09 13:50:18.420 | INFO     | __main__:main:139 - Byline:
+
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-05-09 13:50:52.916 | INFO     | __main__:main:145 - END main() in utils_branton_advanced.py
+2025-05-09 14:07:29.564 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-09 14:07:29.566 | INFO     | __main__:main:154 - START main() in utils_branton_advanced.py
+2025-05-09 14:07:29.566 | INFO     | __main__:main:157 - Byline:
+
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has International Clients:  True
+Located in USA:            False
+Choice in Analytics:     ['Data Science', 'Data Engineering', 'Business Analytics']
+Average Client Satisfaction: 4.7
+Average Grade Point:      3.8
+Number of Students:       425
+Average Student Grade:   3.88
+Minimum Student Grade:   3.7
+Maximum Student Grade:   4.0
+Standard Deviation of Student Grades: 0.13
+Years in Operation:         10
+Skills Offered:             ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score: 4.80
+Standard Deviation of Satisfaction Scores: 0.16
+
+2025-05-09 14:08:32.548 | INFO     | __main__:main:163 - END main() in utils_branton_advanced.py

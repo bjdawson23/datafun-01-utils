@@ -4,8 +4,7 @@
 
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
 
-1. Create a virtual environment:
-
+1. **Create a virtual environment**:
    ```powershell
    py -m venv .venv
    ```
@@ -51,3 +50,18 @@ Use the following commands to add, commit, and push changes to Git:
    git push -u origin main
    git push
    ```
+
+## Installed TODO Highlight "highlight TODOs, FIXMEs, and any keywords, annotations"
+
+## Every Work Session
+
+Many projects span several days. When starting work again, remember to:
+
+   <https://github.com/denisecase/pro-analytics-01/tree/main/03-repeatable-workflow>
+
+   01-git-pull-before-changes.md
+   02-activate-virtual-environment.md
+   03-install-dependencies.md
+   04a-activate-and-run-python-script.md
+   05-modify-and-test.md
+   06-git-add-commit-push.md
